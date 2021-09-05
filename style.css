@@ -54,3 +54,16 @@
     position: relative;
     
 }
+
+.btn{
+  padding: 10px;
+  color: white;
+}
+.btn-1{background-color: aquamarine;}
+.btn-2{background-color: fuchsia;}
+.btn-3{background-color: khaki;}
+
+#big-blue.large-blue{
+  color: blue;
+  font-size: 20px;
+}
